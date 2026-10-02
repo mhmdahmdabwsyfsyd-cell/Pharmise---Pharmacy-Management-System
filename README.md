@@ -1,8 +1,3 @@
-أكيد. بما إن المشروع هيتحط على **GitHub**، الأفضل يكون الـREADME شكله أقرب لمشاريع الـPortfolio الحقيقية: عنوان واضح، وصف احترافي، badges، مميزات، architecture، structure، screenshots، وطريقة التشغيل.
-
-ده نسخة جاهزة تستبدل بيها الـ`README.md` بالكامل:
-
-````markdown
 # 💊 Pharmise — Pharmacy Management System
 
 > A lightweight desktop-based Pharmacy Management System built with **Java** and **Java Swing**, designed to simplify pharmacy operations through inventory management, point-of-sale transactions, stock monitoring, and sales analytics.

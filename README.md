@@ -50,7 +50,8 @@ pharmise/
 │   └── AnalysisPanel.java # Reports and stock alerts UI
 ├── DataStore.java         # Centralized data loader and file logger
 └── PharmacyApp.java       # Application entry point
-
+```
+**Images :**
 <img width="985" height="671" alt="لقطة الشاشة 2026-10-02 140558" src="https://github.com/user-attachments/assets/a8ea2fd7-29b3-4ca9-81ac-97804d08cf1f" />
 <img width="988" height="672" alt="لقطة الشاشة 2026-10-02 140512" src="https://github.com/user-attachments/assets/294bfea2-8f7d-4698-bf05-4f98876dae8e" />
 <img width="986" height="667" alt="image" src="https://github.com/user-attachments/assets/d42beebb-4621-4768-aa33-c83f8c53c43d" />
